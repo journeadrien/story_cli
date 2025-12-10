@@ -1,0 +1,11 @@
+{
+  "characters": [
+    {
+      "name": "Marc",
+      "role": "protagonist",
+      "age": 24,
+      "path": "characters/marc",
+      "updated_at": "2025-12-10T11:40:40.168034"
+    }
+  ]
+}
